@@ -1,0 +1,27 @@
+[
+  {
+    "product": "XX牌无线降噪耳机",
+    "target_audience": "通勤上班族",
+    "selling_point": "降噪优秀，续航40小时"
+  },
+  {
+    "product": "YY牌智能运动手环",
+    "target_audience": "健身爱好者",
+    "selling_point": "心率监测精准，防水50米"
+  },
+  {
+    "product": "ZZ牌智能扫地机器人",
+    "target_audience": "双职工家庭",
+    "selling_point": "导航智能，扫拖一体"
+  },
+  {
+    "product": "AA牌植物精华保湿面霜",
+    "target_audience": "干性皮肤女性",
+    "selling_point": "保湿锁水，缓解干纹"
+  },
+  {
+    "product": "BB牌儿童智能学习灯",
+    "target_audience": "小学生家长",
+    "selling_point": "护眼认证，学习模式丰富"
+  }
+]
